@@ -1,6 +1,7 @@
 import { Header } from '@/components/header'
 import { Footer } from '@/components/footer'
 import Image from 'next/image'
+import Link from 'next/link'
 
 export default function Home() {
   return (
@@ -133,9 +134,12 @@ export default function Home() {
             <p className="text-lg text-muted-foreground mb-8">
               Nem számít, hogy kezdő vagy vagy, a badminton mindig fenséges és izgalmas lehet.
             </p>
-            <button className="px-8 py-3 bg-primary text-primary-foreground font-semibold rounded-lg hover:shadow-lg transition-all duration-300 transform hover:scale-105">
+            <Link
+              href="/about"
+              className="inline-block px-8 py-3 bg-primary text-primary-foreground font-semibold rounded-lg hover:shadow-lg transition-all duration-300 transform hover:scale-105"
+            >
               Ismerkedj meg velünk
-            </button>
+            </Link>
           </div>
         </section>
       </main>
