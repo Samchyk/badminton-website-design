@@ -106,7 +106,7 @@ export default function CookiesPage() {
 
           <div className="bg-primary/5 border border-primary/20 rounded-lg p-6 text-sm text-muted-foreground">
             <p>
-              <strong className="text-foreground">Utolsó frissítés:</strong> 2024. május
+              <strong className="text-foreground">Utolsó frissítés:</strong> 
             </p>
           </div>
         </div>
