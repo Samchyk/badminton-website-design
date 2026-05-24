@@ -3,7 +3,7 @@ import { Footer } from '@/components/footer'
 import { PageLayout } from '@/components/page-layout'
 
 export const metadata = {
-  title: 'Badminton Történet - Badminton Magyarország',
+  title: 'Badminton Történet - Hungarytollaslabda',
   description: 'Fedezd fel a badminton történetét az ókorból napjainkig.',
 }
 

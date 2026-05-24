@@ -5,7 +5,7 @@ import Link from 'next/link'
 import { blogArticles } from '@/lib/blog-articles'
 
 export const metadata = {
-  title: 'Blog - Badminton Magyarország',
+  title: 'Blog - Hungarytollaslabda',
   description: 'Olvass cikkeket, tippeket és érdekességeket a badmintonról.',
 }
 

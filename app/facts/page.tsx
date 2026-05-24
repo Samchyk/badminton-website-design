@@ -3,7 +3,7 @@ import { Footer } from '@/components/footer'
 import { PageLayout } from '@/components/page-layout'
 
 export const metadata = {
-  title: 'Badminton Érdekességek - Badminton Magyarország',
+  title: 'Badminton Érdekességek - Hungarytollaslabda',
   description: 'Fedezz fel érdekes tényeket és érdekességeket a badminton sportról.',
 }
 

@@ -3,7 +3,7 @@ import { Footer } from '@/components/footer'
 import { PageLayout } from '@/components/page-layout'
 
 export const metadata = {
-  title: 'Badminton Szabályok - Badminton Magyarország',
+  title: 'Badminton Szabályok - Hungarytollaslabda',
   description: 'Tanulj meg a badminton összes szabályáról és a játékot irányító rendszerről.',
 }
 

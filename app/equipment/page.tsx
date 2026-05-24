@@ -3,7 +3,7 @@ import { Footer } from '@/components/footer'
 import { PageLayout } from '@/components/page-layout'
 
 export const metadata = {
-  title: 'Badminton Felszerelés - Badminton Magyarország',
+  title: 'Badminton Felszerelés - Hungarytollaslabda',
   description: 'Tanulj meg a badminton sporthoz szükséges felszerelésről és annak kiválasztásáról.',
 }
 

@@ -18,7 +18,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     return { title: 'Cikk nem található' }
   }
   return {
-    title: `${article.title} - Badminton Magyarország`,
+    title: `${article.title} - Hungarytollaslabda`,
     description: article.excerpt,
   }
 }

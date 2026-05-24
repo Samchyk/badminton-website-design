@@ -5,7 +5,7 @@ import './globals.css'
 const geistSans = Geist({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Badminton Magyarország - A Tollasgolyó Világa',
+  title: 'Hungarytollaslabda - A Tollasgolyó Világa',
   description: 'Fedezd fel a badminton világát. Edzések, versenyek, szabályok és az összes szükséges információ a tollasgolyó sportról.',
 }
 

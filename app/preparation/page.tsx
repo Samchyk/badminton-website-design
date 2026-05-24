@@ -3,7 +3,7 @@ import { Footer } from '@/components/footer'
 import { PageLayout } from '@/components/page-layout'
 
 export const metadata = {
-  title: 'Badminton Felkészülés - Badminton Magyarország',
+  title: 'Badminton Felkészülés - Hungarytollaslabda',
   description: 'Tanulj meg a badminton versenyre való felkészülésről és az edzési tervekről.',
 }
 

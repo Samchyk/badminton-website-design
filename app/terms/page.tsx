@@ -3,8 +3,8 @@ import { Footer } from '@/components/footer'
 import { PageLayout } from '@/components/page-layout'
 
 export const metadata = {
-  title: 'Felhasználási Feltételek - Badminton Magyarország',
-  description: 'Felhasználási feltételek a Badminton Magyarország weboldal.',
+  title: 'Felhasználási Feltételek - Hungarytollaslabda',
+  description: 'Felhasználási feltételek a Hungarytollaslabda weboldal.',
 }
 
 export default function TermsPage() {
@@ -19,7 +19,7 @@ export default function TermsPage() {
           <section>
             <h2 className="text-2xl font-bold text-foreground mb-4">Bevezetés</h2>
             <p className="text-muted-foreground leading-relaxed">
-              Az alábbiak a Badminton Magyarország weboldalának (a továbbiakban "oldal") felhasználási feltételei. A weboldal használatával elfogadja ezeket a feltételeket.
+              Az alábbiak a Hungarytollaslabda weboldalának (a továbbiakban "oldal") felhasználási feltételei. A weboldal használatával elfogadja ezeket a feltételeket.
             </p>
           </section>
 
@@ -33,7 +33,7 @@ export default function TermsPage() {
           <section>
             <h2 className="text-2xl font-bold text-foreground mb-4">Szellemi Tulajdon</h2>
             <p className="text-muted-foreground leading-relaxed">
-              Az oldal összes tartalma szerzői jogvédelem alatt áll. Az oldal szerzői joga a Badminton Magyarország-ot illeti meg vagy a tartalom szerzőit.
+              Az oldal összes tartalma szerzői jogvédelem alatt áll. Az oldal szerzői joga a Hungarytollaslabda-ot illeti meg vagy a tartalom szerzőit.
             </p>
           </section>
 
@@ -65,28 +65,28 @@ export default function TermsPage() {
           <section>
             <h2 className="text-2xl font-bold text-foreground mb-4">Felelősségi Korlátozás</h2>
             <p className="text-muted-foreground leading-relaxed">
-              Az oldal "olyan, amilyen" alapon van biztosítva. A Badminton Magyarország nem vállal felelősséget az oldal használatából eredő közvetlen vagy közvetett károkért.
+              Az oldal "olyan, amilyen" alapon van biztosítva. A Hungarytollaslabda nem vállal felelősséget az oldal használatából eredő közvetlen vagy közvetett károkért.
             </p>
           </section>
 
           <section>
             <h2 className="text-2xl font-bold text-foreground mb-4">Külső Linkek</h2>
             <p className="text-muted-foreground leading-relaxed">
-              Az oldal olyan linkeket tartalmazhat, amelyek külső weboldalaira mutatnak. A Badminton Magyarország nem felelős ezeknek az oldalaknak a tartalmáért.
+              Az oldal olyan linkeket tartalmazhat, amelyek külső weboldalaira mutatnak. A Hungarytollaslabda nem felelős ezeknek az oldalaknak a tartalmáért.
             </p>
           </section>
 
           <section>
             <h2 className="text-2xl font-bold text-foreground mb-4">Felhasználás Beszüntetése</h2>
             <p className="text-muted-foreground leading-relaxed">
-              A Badminton Magyarország jogában áll az oldal hozzáférését bármikor beszüntetni, ha a feltételeket megsértik.
+              A Hungarytollaslabda jogában áll az oldal hozzáférését bármikor beszüntetni, ha a feltételeket megsértik.
             </p>
           </section>
 
           <section>
             <h2 className="text-2xl font-bold text-foreground mb-4">Változások</h2>
             <p className="text-muted-foreground leading-relaxed">
-              A Badminton Magyarország jogában áll ezeket a feltételeket bármikor megváltoztatni.
+              A Hungarytollaslabda jogában áll ezeket a feltételeket bármikor megváltoztatni.
             </p>
           </section>
 

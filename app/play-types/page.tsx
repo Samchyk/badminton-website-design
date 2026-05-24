@@ -3,7 +3,7 @@ import { Footer } from '@/components/footer'
 import { PageLayout } from '@/components/page-layout'
 
 export const metadata = {
-  title: 'Játéktípusok - Badminton Magyarország',
+  title: 'Játéktípusok - Hungarytollaslabda',
   description: 'Fedezd fel az összes badminton játéktípust és azok szabályait.',
 }
 

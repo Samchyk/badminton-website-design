@@ -3,8 +3,8 @@ import { Footer } from '@/components/footer'
 import { PageLayout } from '@/components/page-layout'
 
 export const metadata = {
-  title: 'Rólunk - Badminton Magyarország',
-  description: 'Ismerkedj meg a Badminton Magyarország csapatával.',
+  title: 'Rólunk - Hungarytollaslabda',
+  description: 'Ismerkedj meg a Hungarytollaslabda csapatával.',
 }
 
 export default function AboutPage() {
@@ -31,14 +31,14 @@ export default function AboutPage() {
       <Header />
       <PageLayout
         title="Rólunk"
-        subtitle="Ismerkedj meg a Badminton Magyarország csapatával és küldetésével."
+        subtitle="Ismerkedj meg a Hungarytollaslabda csapatával és küldetésével."
       >
         <div className="max-w-3xl mx-auto space-y-12">
           {/* Mission */}
           <section>
             <h2 className="text-3xl font-bold text-foreground mb-4">Küldetésünk</h2>
             <p className="text-lg text-muted-foreground leading-relaxed mb-4">
-              A Badminton Magyarország küldetése, hogy a badminton sport fejlődésén és népszerűsítésén dolgozzon Magyarországon. Azt szeretnénk, hogy minél több ember fedezze fel a badminton szépségét és élvezze ezt az izgalmas sportot.
+              A Hungarytollaslabda küldetése, hogy a badminton sport fejlődésén és népszerűsítésén dolgozzon Magyarországon. Azt szeretnénk, hogy minél több ember fedezze fel a badminton szépségét és élvezze ezt az izgalmas sportot.
             </p>
             <p className="text-muted-foreground leading-relaxed">
               Elkötelezettünk az összes szintű játékosok oktatásában, a szakmai fejlődésben és a közösség építésében.
@@ -88,13 +88,13 @@ export default function AboutPage() {
           <section>
             <h2 className="text-3xl font-bold text-foreground mb-4">Történetünk</h2>
             <p className="text-muted-foreground leading-relaxed mb-4">
-              A Badminton Magyarország 2020-ban alapult egy csoport szenvedélyes badminton szereplő által. Az ötletnél más volt, mint egy közösségi weboldal, ahol a játékosok tudást oszthatnak meg, tippeket adhatnak és egymást támogathatják.
+              A Hungarytollaslabda 2020-ban alapult egy csoport szenvedélyes badminton szereplő által. Az ötletnél más volt, mint egy közösségi weboldal, ahol a játékosok tudást oszthatnak meg, tippeket adhatnak és egymást támogathatják.
             </p>
             <p className="text-muted-foreground leading-relaxed mb-4">
               Az évek során a weboldal nőtt és fejlődött. Most több száz cikket, útmutatót és szakképzési programot kínálunk. Továbbra is szívesen teljesítjük küldetésünket, hogy a badminton sport fejlődésén és népszerűsítésén dolgozzunk.
             </p>
             <p className="text-muted-foreground leading-relaxed">
-              Köszönjük az összes támogatónak, szerzőnek és közösségi tagnak, akik segítik azt, hogy a Badminton Magyarország olyan erős közösség maradjon.
+              Köszönjük az összes támogatónak, szerzőnek és közösségi tagnak, akik segítik azt, hogy a Hungarytollaslabda olyan erős közösség maradjon.
             </p>
           </section>
 

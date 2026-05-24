@@ -3,8 +3,8 @@ import { Footer } from '@/components/footer'
 import { PageLayout } from '@/components/page-layout'
 
 export const metadata = {
-  title: 'Adatvédelem - Badminton Magyarország',
-  description: 'Adatvédelmi szabályzat a Badminton Magyarország weboldal.',
+  title: 'Adatvédelem - Hungarytollaslabda',
+  description: 'Adatvédelmi szabályzat a Hungarytollaslabda weboldal.',
 }
 
 export default function PrivacyPage() {
@@ -19,7 +19,7 @@ export default function PrivacyPage() {
           <section>
             <h2 className="text-2xl font-bold text-foreground mb-4">Bevezetés</h2>
             <p className="text-muted-foreground leading-relaxed">
-              A Badminton Magyarország elkötelezett az adatvédelem és a magánélet védelme iránt. Ez az adatvédelmi szabályzat ismerteti, hogyan gyűjtjük, felhasználjuk és védelmezzük az Ön személyes adatait.
+              A Hungarytollaslabda elkötelezett az adatvédelem és a magánélet védelme iránt. Ez az adatvédelmi szabályzat ismerteti, hogyan gyűjtjük, felhasználjuk és védelmezzük az Ön személyes adatait.
             </p>
           </section>
 

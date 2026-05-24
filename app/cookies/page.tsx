@@ -3,8 +3,8 @@ import { Footer } from '@/components/footer'
 import { PageLayout } from '@/components/page-layout'
 
 export const metadata = {
-  title: 'Sütik - Badminton Magyarország',
-  description: 'Süti politika a Badminton Magyarország weboldal.',
+  title: 'Sütik - Hungarytollaslabda',
+  description: 'Süti politika a Hungarytollaslabda weboldal.',
 }
 
 export default function CookiesPage() {
@@ -19,7 +19,7 @@ export default function CookiesPage() {
           <section>
             <h2 className="text-2xl font-bold text-foreground mb-4">Bevezetés</h2>
             <p className="text-muted-foreground leading-relaxed">
-              A Badminton Magyarország weboldal sütiket használ az Ön felhasználói élményének javítására. Ez az oldal ismerteti, hogyan használunk sütiket.
+              A Hungarytollaslabda weboldal sütiket használ az Ön felhasználói élményének javítására. Ez az oldal ismerteti, hogyan használunk sütiket.
             </p>
           </section>
 
