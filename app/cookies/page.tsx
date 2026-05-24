@@ -103,12 +103,6 @@ export default function CookiesPage() {
               Az oldalunk harmadik féltől származó sütikeket is használhat, például analitika céljából. Ezek a sütik nem közvetlenül az Ön személyes adatainak gyűjtésére szolgálnak.
             </p>
           </section>
-
-          <div className="bg-primary/5 border border-primary/20 rounded-lg p-6 text-sm text-muted-foreground">
-            <p>
-              <strong className="text-foreground">Utolsó frissítés:</strong> 
-            </p>
-          </div>
         </div>
       </PageLayout>
       <Footer />

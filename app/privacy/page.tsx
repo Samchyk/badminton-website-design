@@ -97,11 +97,6 @@ export default function PrivacyPage() {
             </p>
           </section>
 
-          <div className="bg-primary/5 border border-primary/20 rounded-lg p-6 text-sm text-muted-foreground">
-            <p>
-              <strong className="text-foreground">Utolsó frissítés:</strong>
-            </p>
-          </div>
         </div>
       </PageLayout>
       <Footer />
