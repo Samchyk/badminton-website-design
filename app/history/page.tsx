@@ -10,7 +10,7 @@ export const metadata = {
 export default function HistoryPage() {
   const timeline = [
     {
-      year: '2000 - 1800-as évek',
+      year: '1800-as évek',
       title: 'Ősi Eredetek',
       description: 'A badminton ősei valószínűleg az Indiában és Kínában játszott játékokból származnak. A játék hasonlított az "Battledore and Shuttlecock" játékra, amit az ókori civilizációkban játszottak.',
       details: [

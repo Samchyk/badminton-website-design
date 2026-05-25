@@ -10,7 +10,7 @@ export const metadata = {
 }
 
 export default function BlogPage() {
-  const categories = ['Összes', 'Technika', 'Fitnessz', 'Stratégia', 'Egészség', 'Mentális']
+  const categories = ['Összes', 'Technika', 'Fitnessz', 'Táplálkozás', 'Mentális', 'Felszerelés', 'Versenyzés']
 
   return (
     <>
